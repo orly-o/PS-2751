@@ -4,4 +4,4 @@ PS 2751 Text as Data for Social Scientists
 
 University of Pittsburgh MA Statistics Program
 
-Fall 2020
+Fall 2021
